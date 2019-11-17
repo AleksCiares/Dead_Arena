@@ -1,0 +1,30 @@
+﻿  bullet.cpp
+  enemy.cpp
+  text.cpp
+c:\users\aleksciares\source\repos\sfml_testapp\sfml_testapp\text.cpp(8): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  map.cpp
+  main.cpp
+c:\users\aleksciares\source\repos\sfml_testapp\sfml_testapp\main.cpp(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\aleksciares\source\repos\sfml_testapp\sfml_testapp\main.cpp(38): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\aleksciares\source\repos\sfml_testapp\sfml_testapp\main.cpp(69): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+c:\users\aleksciares\source\repos\sfml_testapp\sfml_testapp\main.cpp(117): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\aleksciares\source\repos\sfml_testapp\sfml_testapp\main.cpp(120): warning C4018: '<': signed/unsigned mismatch
+c:\users\aleksciares\source\repos\sfml_testapp\sfml_testapp\main.cpp(129): warning C4018: '<': signed/unsigned mismatch
+c:\users\aleksciares\source\repos\sfml_testapp\sfml_testapp\main.cpp(146): warning C4018: '<': signed/unsigned mismatch
+c:\users\aleksciares\source\repos\sfml_testapp\sfml_testapp\main.cpp(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\aleksciares\source\repos\sfml_testapp\sfml_testapp\main.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\aleksciares\source\repos\sfml_testapp\sfml_testapp\main.cpp(162): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  object.cpp
+c:\users\aleksciares\source\repos\sfml_testapp\sfml_testapp\object.cpp(20): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\aleksciares\source\repos\sfml_testapp\sfml_testapp\object.cpp(22): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  player.cpp
+  Generating Code...
+  SFML_TestApp.vcxproj -> C:\Users\AleksCiares\source\repos\SFML_TestApp\Debug\SFML_TestApp.exe
