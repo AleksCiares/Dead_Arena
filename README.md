@@ -1,2 +1,2 @@
 # Dead_Arena
-Insatll Setup.exe to play.
+Install Setup.exe to play.
